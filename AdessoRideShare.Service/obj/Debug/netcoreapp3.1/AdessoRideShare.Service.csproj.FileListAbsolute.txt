@@ -1,0 +1,16 @@
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Service.deps.json
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Service.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Service.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Core.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Data.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Shared.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Data.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Core.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/bin/Debug/netcoreapp3.1/AdessoRideShare.Shared.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/obj/Debug/netcoreapp3.1/AdessoRideShare.Service.csprojAssemblyReference.cache
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/obj/Debug/netcoreapp3.1/AdessoRideShare.Service.AssemblyInfoInputs.cache
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/obj/Debug/netcoreapp3.1/AdessoRideShare.Service.AssemblyInfo.cs
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/obj/Debug/netcoreapp3.1/AdessoRideShare.Service.csproj.CoreCompileInputs.cache
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/obj/Debug/netcoreapp3.1/AdessoRideShare.Service.csproj.CopyComplete
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/obj/Debug/netcoreapp3.1/AdessoRideShare.Service.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Service/obj/Debug/netcoreapp3.1/AdessoRideShare.Service.pdb

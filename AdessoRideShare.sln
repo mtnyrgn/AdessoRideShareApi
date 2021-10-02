@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdessoRideShare.API", "AdessoRideShare.API\AdessoRideShare.API.csproj", "{4FA0207F-13DB-432D-A036-8D0960EA9367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdessoRideShare.Data", "AdessoRideShare.Data\AdessoRideShare.Data.csproj", "{11423403-647B-415F-AD9F-B605E27CBBAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdessoRideShare.Core", "AdessoRideShare.Core\AdessoRideShare.Core.csproj", "{310B0BCA-C679-45C4-B3F7-396D0E4F468A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdessoRideShare.Service", "AdessoRideShare.Service\AdessoRideShare.Service.csproj", "{D90EE030-787F-4F7E-B62D-D47A48DDBD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdessoRideShare.Shared", "AdesspRideShare.Shared\AdessoRideShare.Shared.csproj", "{F5667084-071B-48DD-9C87-6F258E9251EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA0207F-13DB-432D-A036-8D0960EA9367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA0207F-13DB-432D-A036-8D0960EA9367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA0207F-13DB-432D-A036-8D0960EA9367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA0207F-13DB-432D-A036-8D0960EA9367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11423403-647B-415F-AD9F-B605E27CBBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11423403-647B-415F-AD9F-B605E27CBBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11423403-647B-415F-AD9F-B605E27CBBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11423403-647B-415F-AD9F-B605E27CBBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310B0BCA-C679-45C4-B3F7-396D0E4F468A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310B0BCA-C679-45C4-B3F7-396D0E4F468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310B0BCA-C679-45C4-B3F7-396D0E4F468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310B0BCA-C679-45C4-B3F7-396D0E4F468A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90EE030-787F-4F7E-B62D-D47A48DDBD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90EE030-787F-4F7E-B62D-D47A48DDBD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90EE030-787F-4F7E-B62D-D47A48DDBD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90EE030-787F-4F7E-B62D-D47A48DDBD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5667084-071B-48DD-9C87-6F258E9251EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5667084-071B-48DD-9C87-6F258E9251EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5667084-071B-48DD-9C87-6F258E9251EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5667084-071B-48DD-9C87-6F258E9251EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30265BE1-F3F7-46D0-9E94-6B1F48C6BAE8}
+	EndGlobalSection
+EndGlobal

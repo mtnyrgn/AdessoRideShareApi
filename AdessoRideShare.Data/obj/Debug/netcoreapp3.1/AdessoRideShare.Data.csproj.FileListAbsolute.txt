@@ -1,0 +1,17 @@
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Data.deps.json
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Data.runtimeconfig.json
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Data.runtimeconfig.dev.json
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Data.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Data.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Core.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Shared.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Core.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/bin/Debug/netcoreapp3.1/AdessoRideShare.Shared.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.csprojAssemblyReference.cache
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.AssemblyInfoInputs.cache
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.AssemblyInfo.cs
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.csproj.CoreCompileInputs.cache
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.csproj.CopyComplete
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.dll
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.pdb
+/Users/metin/Projects/AdessoRideShare.API/AdessoRideShare.Data/obj/Debug/netcoreapp3.1/AdessoRideShare.Data.genruntimeconfig.cache
